@@ -2,9 +2,10 @@
 AlexeyAltunin Infra repository
 
 #### Данные для подключения
+```
 bastion_IP = 35.187.82.86
 someinternalhost_IP = 10.132.0.3
-
+```
 
 #### 1.Cпособ подключения к someinternalhost в одну команду из вашего рабочего устройства
 ```
