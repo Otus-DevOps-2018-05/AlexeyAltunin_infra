@@ -66,3 +66,16 @@ gcloud compute firewall-rules create "default-puma-server" --allow tcp:9292 --so
 Работа с реестром модулей
 ```
 
+# ДЗ_8
+## Что было сделано
+```
+Создана директория для работы с ansible
+ansible.cfg для управления инстансами
+создан playbook для для клонирования репозитория clone.yml
+
+ansible app -m command -a 'rm -rf ~/reddit' удаляет директоию
+
+ansible-playbook clone.yml снова клонирует репозиторий, тк он был удален
+```
+
+
