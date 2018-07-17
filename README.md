@@ -47,3 +47,10 @@ gcloud compute firewall-rules create "default-puma-server" --allow tcp:9292 --so
 Параметризовал ubuntu16.json и добавил доп опции
 ```
 
+#### ДЗ_6
+```
+Обязательное ДЗ
+Настроил terraform конфиг для создания VM с запуском provisioners.
+Настроил параметризацию
+```
+
