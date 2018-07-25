@@ -88,3 +88,15 @@ ansible-playbook clone.yml снова клонирует репозиторий,
 Замена sh криптов в packer provision на ansible playbook   
 ```
 
+# ДЗ_10
+## Что было сделано
+```
+роли для app and db
+environments для prod and stage
+рефакторинг плейбуков
+открытие 80 порта в терраформ
+роль jdauphant.nginx
+созданы зашифрованные credentials с помощью ansible-vault
+```
+
+    
