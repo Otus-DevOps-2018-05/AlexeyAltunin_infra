@@ -7,3 +7,5 @@ packer/variables.json
 .idea/
 *.retry
 
+ansible/roles/jdauphant.nginx/
+ansible/vault.key
