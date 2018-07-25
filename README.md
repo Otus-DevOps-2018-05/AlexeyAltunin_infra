@@ -98,5 +98,3 @@ environments для prod and stage
 роль jdauphant.nginx
 созданы зашифрованные credentials с помощью ansible-vault
 ```
-
-    
