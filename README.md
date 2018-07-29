@@ -98,3 +98,12 @@ environments для prod and stage
 роль jdauphant.nginx
 созданы зашифрованные credentials с помощью ansible-vault
 ```
+
+# ДЗ_11
+## Что было сделано
+```
+изучение Vagrant
+доработка ролей для Vagrant
+тестирование ролей черел Molecule
+```
+
